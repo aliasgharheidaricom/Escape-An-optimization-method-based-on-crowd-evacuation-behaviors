@@ -94,46 +94,11 @@ The ESC algorithm draws inspiration from human behavior during emergencies:
 
 | **Resource**                           | **Download Link**                                                                 |
 |----------------------------------------|----------------------------------------------------------------------------------|
-| 📄 **Research Paper (PDF)**            | [Download PDF](https://aliasgharheidari.com/Escape-An optimization method based on crowd evacuation behaviors-Artificial intelligence review-2024.pdf) |
-| 📂 **MATLAB Code**                     | [Download MATLAB Code](https://aliasgharheidari.com//Matlab/Matlab codes of Escape optimization algorithm ESC.zip) |
-| 📂 **Python Code**                     | [Download Python Code](https://aliasgharheidari.com/PYTHON codes of Escape Algorithm _ESC_.zip) |
-| 📜 **Flowchart**                       | [Download Flowchart](https://aliasgharheidari.com/ESC flowchart.pptx) |
-| 📄 **Word Document**                   | [Download Word Document](https://aliasgharheidari.com/Word file of Escape-An optimization method based on crowd evacuation behaviors-Artificial intelligence review-2024.docx) |
-
----
-
-## 🎥 **Video Insight**
-
-Watch how studies of panicking crowds influence building evacuations and inspired ESC:
-<video controls>
-  <source src="https://aliasgharheidari.com/ESC/Studies%20of%20panicking%20crowds.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-## 🚀 **How to Run**
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/username/escape-algorithm.git
-```
-
-### **2. Install Dependencies**
-For Python:
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run the Algorithm**
-```bash
-python escape_algorithm.py
-```
-
-### **4. Visualize Results**
-- Convergence plots
-- Fitness evaluations
-- Comparison metrics
+| 📄 **Research Paper (PDF)**            | [Download PDF](https://aliasgharheidari.com/Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.pdf) |
+| 📂 **MATLAB Code**                     | [Download MATLAB Code](https://aliasgharheidari.com/Matlab/Matlab%20codes%20of%20Escape%20optimization%20algorithm%20ESC.zip) |
+| 📂 **Python Code**                     | [Download Python Code](https://aliasgharheidari.com/PYTHON%20codes%20of%20Escape%20Algorithm%20_ESC_.zip) |
+| 📜 **Flowchart**                       | [Download Flowchart](https://aliasgharheidari.com/ESC%20flowchart.pptx) |
+| 📄 **Word Document**                   | [Download Word Document](https://aliasgharheidari.com/Word%20file%20of%20Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.docx) |
 
 ---
 
