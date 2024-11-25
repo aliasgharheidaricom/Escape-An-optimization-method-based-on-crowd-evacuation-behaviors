@@ -94,11 +94,11 @@ The ESC algorithm draws inspiration from human behavior during emergencies:
 
 | **Resource**                           | **Download Link**                                                                 |
 |----------------------------------------|----------------------------------------------------------------------------------|
-| 📄 **Research Paper (PDF)**            | [Download PDF](https://aliasgharheidari.com/Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.pdf) |
-| 📂 **MATLAB Code**                     | [Download MATLAB Code](https://aliasgharheidari.com/Matlab/Matlab%20codes%20of%20Escape%20optimization%20algorithm%20ESC.zip) |
-| 📂 **Python Code**                     | [Download Python Code](https://aliasgharheidari.com/PYTHON%20codes%20of%20Escape%20Algorithm%20_ESC_.zip) |
-| 📜 **Flowchart**                       | [Download Flowchart](https://aliasgharheidari.com/ESC%20flowchart.pptx) |
-| 📄 **Word Document**                   | [Download Word Document](https://aliasgharheidari.com/Word%20file%20of%20Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.docx) |
+| 📄 **Research Paper (PDF)**            | <a href="https://aliasgharheidari.com/Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.pdf" target="_blank">Download PDF</a> |
+| 📂 **MATLAB Code**                     | <a href="https://aliasgharheidari.com/Matlab/Matlab%20codes%20of%20Escape%20optimization%20algorithm%20ESC.zip" target="_blank">Download MATLAB Code</a> |
+| 📂 **Python Code**                     | <a href="https://aliasgharheidari.com/PYTHON%20codes%20of%20Escape%20Algorithm%20_ESC_.zip" target="_blank">Download Python Code</a> |
+| 📜 **Flowchart**                       | <a href="https://aliasgharheidari.com/ESC%20flowchart.pptx" target="_blank">Download Flowchart</a> |
+| 📄 **Word Document**                   | <a href="https://aliasgharheidari.com/Word%20file%20of%20Escape-An%20optimization%20method%20based%20on%20crowd%20evacuation%20behaviors-Artificial%20intelligence%20review-2024.docx" target="_blank">Download Word Document</a> |
 
 ---
 
