@@ -138,13 +138,25 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 
 ### Performance Comparison
 
-| Algorithm                        | Speed    | Global Search Ability | Local Search Refinement | Scalability |
-|----------------------------------|----------|-----------------------|-------------------------|-------------|
-| Moss Growth Optimization          | Moderate | High                  | Excellent               | Moderate    |
-| Genetic Algorithm                 | Fast     | Good                  | Moderate                | High        |
-| Particle Swarm Optimization       | Fast     | Moderate              | Moderate                | High        |
-| Simulated Annealing               | Moderate | High                  | Low                     | Moderate    |
-| **Escape Optimization (ESC)**     | Moderate | Excellent             | High                    | High        |
+| Algorithm                        | Speed   | Global Search Ability | Local Search Refinement | Scalability | Exploration/Exploitation | Convergence Speed | Robustness |
+|----------------------------------|---------|-----------------------|-------------------------|-------------|--------------------------|-------------------|------------|
+| MGO                              | 🔽      | 🔼                    | 🔼                      | 🔽          | 🔼                        | 🔽                | 🔼         |
+| GA                               | 🔼      | 🔽                    | 🔽                      | 🔼          | 🔽                        | 🔼                | 🔽         |
+| PSO                              | 🔼      | 🔻                    | 🔽                      | 🔼          | 🔼                        | 🔽                | 🔽         |
+| SA                               | 🔽      | 🔼                    | 🔻                      | 🔽          | 🔽                        | 🔼                | 🔽         |
+| **ESC**                          | 🔽      | 🔼                    | 🔼                      | 🔼          | 🔼                        | 🔽                | 🔼         |
+| **PLO**                          | 🔼      | 🔼                    | 🔽                      | 🔼          | 🔼                        | 🔼                | 🔼         |
+| **FATA**                         | 🔽      | 🔼                    | 🔽                      | 🔽          | 🔽                        | 🔼                | 🔽         |
+| **ECO**                          | 🔽      | 🔼                    | 🔼                      | 🔽          | 🔼                        | 🔽                | 🔼         |
+| **AO**                           | 🔽      | 🔼                    | 🔼                      | 🔽          | 🔼                        | 🔼                | 🔼         |
+| **PO**                           | 🔼      | 🔻                    | 🔽                      | 🔼          | 🔼                        | 🔽                | 🔽         |
+| **RIME**                         | 🔽      | 🔻                    | 🔼                      | 🔽          | 🔽                        | 🔼                | 🔽         |
+| **INFO**                         | 🔽      | 🔼                    | 🔽                      | 🔼          | 🔽                        | 🔼                | 🔼         |
+| **RUN**                          | 🔼      | 🔽                    | 🔽                      | 🔼          | 🔽                        | 🔼                | 🔼         |
+| **HGS**                          | 🔽      | 🔼                    | 🔽                      | 🔼          | 🔽                        | 🔼                | 🔼         |
+| **SMA**                          | 🔽      | 🔻                    | 🔼                      | 🔽          | 🔽                        | 🔼                | 🔽         |
+| **HHO**                          | 🔽      | 🔼                    | 🔼                      | 🔼          | 🔼                        | 🔼                | 🔼         |
+
 
 
 ## 📊 **Performance Highlights**
