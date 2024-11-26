@@ -198,6 +198,7 @@ If you use ESC in your research, kindly cite:
 
 ---
 
+ 
 ## 🔍 **Comparison with Other Optimization Methods**
 
 | Optimization Method | Year | Applications                                | Limitations                              | Key Features                                      |
@@ -213,6 +214,8 @@ If you use ESC in your research, kindly cite:
 | 🔧 [**HGS**](http://www.aliasgharheidari.com/HGS.html)     | 2021 | Telecommunications, network design          | High computational cost                  | Effective for large-scale problems               |
 | 🧩 [**SMA**](http://www.aliasgharheidari.com/SMA.html)     | 2020 | Financial modeling, time-series forecasting | May not handle multi-objective problems well | Suitable for dynamic environments                |
 | 🌠 [**HHO**](http://www.aliasgharheidari.com/HHO.html)     | 2019 | Manufacturing optimization, systems engineering | May require multiple iterations for optimization | Good balance between exploration and exploitation|
+| 🌱 [**MGO**](http://www.aliasgharheidari.com/MGO.html)     | 2024 | Engineering optimization, system design     | May not adapt well to highly dynamic environments | Effective balance between exploration and exploitation, natural growth-inspired approach |
+| 🔥 [**ESC**](http://www.aliasgharheidari.com/ESC.html)    | 2024 | Crowd evacuation, optimization problems      | Computationally demanding for very large populations | Dynamic population-based algorithm with panic, calm, and conformity phases |
 
 Explore these methods to see how ESC compares and stands out in the field of optimization!
 
