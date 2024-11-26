@@ -10,7 +10,7 @@
 ![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
 
 
-# 🚀 Escape Algorithm (ESC)
+# 🚀 Escape: An optimization method based on crowd evacuation behaviors
 
 **Escape Algorithm (ESC)** is a cutting-edge metaheuristic optimization technique inspired by the dynamic behavior of crowds during emergency evacuations. This innovative approach balances **exploration** and **exploitation** phases by mimicking the behaviors of calm, herding, and panic groups.
 
