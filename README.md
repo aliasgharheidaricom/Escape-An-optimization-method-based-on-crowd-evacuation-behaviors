@@ -138,7 +138,7 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 
  ### Performance Comparison
 
-| **Algorithm**             | **Speed**  | **Global Search Ability** | **Local Search Refinement** | **Scalability** | **Global/Local**   | **Convergence Speed** | **Robustness**   |
+| **Algorithm**             | **Speed**  | **Global Search ** | **Local Search ** | **Scalability** | **Global/Local**   | **Convergence Speed** | **Robustness**   |
 |---------------------------|------------|---------------------------|-----------------------------|-----------------|--------------------|-----------------------|------------------|
 | 🌱 [**MGO**](http://www.aliasgharheidari.com/MGO.html)       | 🚀 Fast    | 🔼 Excellent               | 🔼 High                     | ⚖️ Moderate     | 🔼 Global          | 🔼 Fast               | 🔼 High          |
 | 🚀 [**GA**](http://www.aliasgharheidari.com/GA.html)        | 🚀 Fast    | 🔽 Good                    | 🔽 Moderate                 | 🔼 High         | 🔼 Global          | 🔼 Moderate           | 🔼 Moderate      |
@@ -167,89 +167,6 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 - **Global/Local**: 🔼 Global, 🔼 Local, 🔼 Global/Local
 - **Convergence Speed**: 🔼 = Fast, 🔼 = Moderate, 🔼 = Slow
 - **Robustness**: 🔼 = High, 🔼 = Moderate, 🔼 = Low
-
-<h3>Performance Comparison</h3>
-
-<table style="font-size: 90%;">
-  <thead>
-    <tr>
-      <th><b>Algorithm</b></th>
-      <th><b>Speed</b></th>
-      <th><b>Global Search Ability</b></th>
-      <th><b>Local Search Refinement</b></th>
-      <th><b>Scalability</b></th>
-      <th><b>Global/Local</b></th>
-      <th><b>Convergence Speed</b></th>
-      <th><b>Robustness</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🌱 <a href="http://www.aliasgharheidari.com/MGO.html"><b>MGO</b></a></td>
-      <td>🚀 Fast</td>
-      <td>🔼 Excellent</td>
-      <td>🔼 High</td>
-      <td>⚖️ Moderate</td>
-      <td>🔼 Global</td>
-      <td>🔼 Fast</td>
-      <td>🔼 High</td>
-    </tr>
-    <tr>
-      <td>🚀 <a href="http://www.aliasgharheidari.com/GA.html"><b>GA</b></a></td>
-      <td>🚀 Fast</td>
-      <td>🔽 Good</td>
-      <td>🔽 Moderate</td>
-      <td>🔼 High</td>
-      <td>🔼 Global</td>
-      <td>🔼 Moderate</td>
-      <td>🔼 Moderate</td>
-    </tr>
-    <tr>
-      <td>🌐 <a href="http://www.aliasgharheidari.com/PSO.html"><b>PSO</b></a></td>
-      <td>⚡ Fast</td>
-      <td>🔼 Moderate</td>
-      <td>🔽 Low</td>
-      <td>🔼 High</td>
-      <td>🔼 Global</td>
-      <td>🔼 Fast</td>
-      <td>🔼 Moderate</td>
-    </tr>
-    <tr>
-      <td>🔍 <a href="http://www.aliasgharheidari.com/SA.html"><b>SA</b></a></td>
-      <td>🚶‍♂️ Moderate</td>
-      <td>🔼 High</td>
-      <td>🔻 Low</td>
-      <td>⚖️ Moderate</td>
-      <td>🔼 Local</td>
-      <td>🔼 Slow</td>
-      <td>🔼 High</td>
-    </tr>
-    <tr>
-      <td>🔥 <a href="http://www.aliasgharheidari.com/ESC.html"><b>ESC</b></a></td>
-      <td>🚶‍♂️ Moderate</td>
-      <td>🔼 Excellent</td>
-      <td>🔼 High</td>
-      <td>🔼 High</td>
-      <td>🔼 Global/Local</td>
-      <td>🔼 Moderate</td>
-      <td>🔼 High</td>
-    </tr>
-    <!-- Add the rest of the rows in the same format -->
-  </tbody>
-</table>
-
----
-
-<h4>Guide for Symbols:</h4>
-<ul style="font-size: 90%;">
-  <li><b>Speed</b>: 🚀 = Fast, ⚡ = Moderate, 🚶‍♂️ = Slow</li>
-  <li><b>Global Search</b>: 🔼 = Excellent, 🔽 = Moderate, 🔻 = Low</li>
-  <li><b>Local Search</b>: 🔼 = High, 🔽 = Moderate, 🔻 = Low</li>
-  <li><b>Scalability</b>: 🔼 = High, ⚖️ = Moderate, 🔽 = Low</li>
-  <li><b>Global/Local</b>: 🔼 Global, 🔼 Local, 🔼 Global/Local</li>
-  <li><b>Convergence Speed</b>: 🔼 = Fast, 🔼 = Moderate, 🔼 = Slow</li>
-  <li><b>Robustness</b>: 🔼 = High, 🔼 = Moderate, 🔼 = Low</li>
-</ul>
 
 
 ## 📊 **Performance Highlights**
