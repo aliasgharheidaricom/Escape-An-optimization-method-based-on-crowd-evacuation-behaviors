@@ -159,14 +159,6 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 
 ---
 
-**Guide for Symbols**:
-- **Speed**: 🚀 = Fast, ⚡ = Moderate, 🚶‍♂️ = Slow
-- **Global Search**: 🔼 = Excellent, 🔽 = Moderate, 🔻 = Low
-- **Local Search**: 🔼 = High, 🔽 = Moderate, 🔻 = Low
-- **Scalability**: 🔼 = High, ⚖️ = Moderate, 🔽 = Low
-- **Global/Local**: 🔼 Global, 🔼 Local, 🔼 Global/Local
-- **Convergence Speed**: 🔼 = Fast, 🔼 = Moderate, 🔼 = Slow
-- **Robustness**: 🔼 = High, 🔼 = Moderate, 🔼 = Low
 
 
 ## 📊 **Performance Highlights**
