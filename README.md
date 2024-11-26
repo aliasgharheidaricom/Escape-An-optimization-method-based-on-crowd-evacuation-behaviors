@@ -4,6 +4,25 @@
 
 Abstract: Meta-heuristic algorithms, particularly those based on swarm intelligence, are highly effective for solving black-box optimization problems. However, maintaining a balance between exploration and exploitation within these algorithms remains a significant challenge. This paper introduces a useful algorithm, called Escape or Escape Algorithm (ESC), inspired by crowd evacuation behavior, to solve real-world cases and benchmark problems. The ESC algorithm simulates the behavior of crowds during the evacuation, where the population is divided into calm, herding, and panic groups during the exploration phase, reflecting different levels of decision-making and emotional states. Calm individuals guide the crowd toward safety, herding individuals imitate others in less secure areas, and panic individuals make volatile decisions in the most dangerous zones. As the algorithm transitions into the exploitation phase, the population converges toward optimal solutions, akin to finding the safest exit. The effectiveness of the ESC algorithm is validated on two adjustable problem size test suites, CEC 2017 and CEC 2022. ESC ranked first in the 10-dimensional, 30-dimensional tests of CEC 2017, and the 10-dimensional and 20-dimensional tests of CEC 2022, and second in the 50-dimensional and 100-dimensional tests of CEC 2017. Additionally, ESC performed exceptionally well, ranking first in the engineering problems of pressure vessel design, tension/compression spring design, and rolling element bearing design, as well as in two 3D UAV path planning problems, demonstrating its efficiency in solving real-world complex problems, particularly complex problems like 3D UAV path planning. Compared with 12 other high-performance, classical, and advanced algorithms, ESC exhibited superior performance in complex optimization problems.
 
+## 🖼️ **Images of ESC Algorithm**
+
+Below are images demonstrating different aspects of the **Escape Algorithm (ESC)** optimization process:
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer1.jpg" alt="ESC Optimizer 1" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer2.jpg" alt="ESC Optimizer 2" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer3.jpg" alt="ESC Optimizer 3" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer4.jpg" alt="ESC Optimizer 4" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer5.jpg" alt="ESC Optimizer 5" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer6.jpg" alt="ESC Optimizer 6" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer7.jpg" alt="ESC Optimizer 7" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer8.jpg" alt="ESC Optimizer 8" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer9.jpg" alt="ESC Optimizer 9" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer10.jpg" alt="ESC Optimizer 10" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer11.jpg" alt="ESC Optimizer 11" style="width: 100%; height: auto;">
+  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer12.jpg" alt="ESC Optimizer 12" style="width: 100%; height: auto;">
+</div>
+
 ---
 
 ## 🌟 **Overview**
