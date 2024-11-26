@@ -136,26 +136,26 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 28: Return Best Solutions from Elite Pool
 ```
 
-### Performance Comparison
+ ### Performance Comparison
 
-| **Optimization Method** | **Speed** | **Global Search Ability** | **Local Search Refinement** | **Scalability** | **Global Search** | **Local Search** |
-|-------------------------|-----------|---------------------------|-----------------------------|-----------------|-------------------|------------------|
-| 🌱 [**MGO**](http://www.aliasgharheidari.com/MGO.html)       | 🚀 Fast  | 🔼 Excellent               | 🔼 High                     | ⚖️ Moderate    | 🔼 High           | 🔽 Moderate      |
-| 🚀 [**GA**](http://www.aliasgharheidari.com/GA.html)        | 🚀 Fast  | 🔽 Good                    | 🔽 Moderate                 | 🔼 High        | 🔽 Moderate       | 🔼 High          |
-| 🌐 [**PSO**](http://www.aliasgharheidari.com/PSO.html)      | ⚡ Fast  | 🔼 Moderate                | 🔽 Low                      | 🔼 High        | 🔼 High           | 🔽 Low           |
-| 🔍 [**SA**](http://www.aliasgharheidari.com/SA.html)        | 🚶‍♂️ Moderate | 🔼 High                 | 🔻 Low                      | ⚖️ Moderate    | 🔼 Moderate       | 🔽 Low           |
-| 🔥 [**ESC**](http://www.aliasgharheidari.com/ESC.html)      | 🚶‍♂️ Moderate | 🔼 Excellent             | 🔼 High                     | 🔼 High        | 🔼 Excellent      | 🔼 High          |
-| 🌟 [**PLO**](http://www.aliasgharheidari.com/PLO.html)      | 🚀 Fast  | 🔼 High                   | 🔽 Low                      | 🔼 High        | 🔼 High           | 🔽 Low           |
-| 🚀 [**FATA**](http://www.aliasgharheidari.com/FATA.html)    | ⚡ Fast  | 🔼 High                   | 🔼 Moderate                 | 🔼 High        | 🔼 High           | 🔼 Moderate      |
-| 🌐 [**ECO**](http://www.aliasgharheidari.com/ECO.html)      | ⚖️ Moderate | 🔼 Excellent             | 🔼 High                     | 🔽 Moderate    | 🔼 High           | 🔼 High          |
-| 🔍 [**AO**](http://www.aliasgharheidari.com/AO.html)        | 🚶‍♂️ Moderate | 🔼 High                 | 🔼 Moderate                 | 🔽 Moderate    | 🔼 High           | 🔼 Moderate      |
-| ✨ [**PO**](http://www.aliasgharheidari.com/PO.html)        | 🚀 Fast  | 🔽 Moderate               | 🔽 Low                      | 🔼 High        | 🔽 Low            | 🔼 High          |
-| 🔬 [**RIME**](http://www.aliasgharheidari.com/RIME.html)    | ⚡ Fast  | 🔼 High                   | 🔼 Moderate                 | 🔽 Moderate    | 🔼 High           | 🔼 Moderate      |
-| 📊 [**INFO**](http://www.aliasgharheidari.com/INFO.html)    | 🚶‍♂️ Moderate | 🔼 High                 | 🔽 Low                      | 🔼 High        | 🔼 High           | 🔽 Low           |
-| 🛠️ [**RUN**](http://www.aliasgharheidari.com/RUN.html)     | ⚡ Fast  | 🔼 Moderate               | 🔼 High                     | 🔼 High        | 🔼 High           | 🔼 High          |
-| 🔧 [**HGS**](http://www.aliasgharheidari.com/HGS.html)     | ⚖️ Moderate | 🔼 High                   | 🔼 Moderate                 | 🔼 High        | 🔼 High           | 🔼 Moderate      |
-| 🧩 [**SMA**](http://www.aliasgharheidari.com/SMA.html)     | ⚖️ Moderate | 🔼 Moderate               | 🔼 High                     | 🔼 High        | 🔼 Moderate       | 🔼 High          |
-| 🌠 [**HHO**](http://www.aliasgharheidari.com/HHO.html)     | 🚶‍♂️ Moderate | 🔼 High                   | 🔼 High                     | 🔼 High        | 🔼 High           | 🔼 High          |
+| **Algorithm**             | **Speed**  | **Global Search Ability** | **Local Search Refinement** | **Scalability** | **Global/Local**   | **Convergence Speed** | **Robustness**   |
+|---------------------------|------------|---------------------------|-----------------------------|-----------------|--------------------|-----------------------|------------------|
+| 🌱 [**MGO**](http://www.aliasgharheidari.com/MGO.html)       | 🚀 Fast    | 🔼 Excellent               | 🔼 High                     | ⚖️ Moderate     | 🔼 Global          | 🔼 Fast               | 🔼 High          |
+| 🚀 [**GA**](http://www.aliasgharheidari.com/GA.html)        | 🚀 Fast    | 🔽 Good                    | 🔽 Moderate                 | 🔼 High         | 🔼 Global          | 🔼 Moderate           | 🔼 Moderate      |
+| 🌐 [**PSO**](http://www.aliasgharheidari.com/PSO.html)      | ⚡ Fast    | 🔼 Moderate                | 🔽 Low                      | 🔼 High         | 🔼 Global          | 🔼 Fast               | 🔼 Moderate      |
+| 🔍 [**SA**](http://www.aliasgharheidari.com/SA.html)        | 🚶‍♂️ Moderate | 🔼 High                 | 🔻 Low                      | ⚖️ Moderate     | 🔼 Local           | 🔼 Slow               | 🔼 High          |
+| 🔥 [**ESC**](http://www.aliasgharheidari.com/ESC.html)      | 🚶‍♂️ Moderate | 🔼 Excellent             | 🔼 High                     | 🔼 High         | 🔼 Global/Local    | 🔼 Moderate           | 🔼 High          |
+| 🌟 [**PLO**](http://www.aliasgharheidari.com/PLO.html)      | 🚀 Fast    | 🔼 High                   | 🔽 Low                      | 🔼 High         | 🔼 Global          | 🔼 Fast               | 🔼 High          |
+| 🚀 [**FATA**](http://www.aliasgharheidari.com/FATA.html)    | ⚡ Fast    | 🔼 High                   | 🔼 Moderate                 | 🔼 High         | 🔼 Global/Local    | 🔼 Fast               | 🔼 High          |
+| 🌐 [**ECO**](http://www.aliasgharheidari.com/ECO.html)      | ⚖️ Moderate | 🔼 Excellent             | 🔼 High                     | 🔽 Moderate     | 🔼 Global/Local    | 🔼 Moderate           | 🔼 High          |
+| 🔍 [**AO**](http://www.aliasgharheidari.com/AO.html)        | 🚶‍♂️ Moderate | 🔼 High                 | 🔼 Moderate                 | 🔽 Moderate     | 🔼 Local           | 🔼 Moderate           | 🔼 High          |
+| ✨ [**PO**](http://www.aliasgharheidari.com/PO.html)        | 🚀 Fast    | 🔽 Moderate               | 🔽 Low                      | 🔼 High         | 🔼 Global          | 🔼 Fast               | 🔼 Moderate      |
+| 🔬 [**RIME**](http://www.aliasgharheidari.com/RIME.html)    | ⚡ Fast    | 🔼 High                   | 🔼 Moderate                 | 🔽 Moderate     | 🔼 Global/Local    | 🔼 Moderate           | 🔼 High          |
+| 📊 [**INFO**](http://www.aliasgharheidari.com/INFO.html)    | 🚶‍♂️ Moderate | 🔼 High                 | 🔽 Low                      | 🔼 High         | 🔼 Global          | 🔼 Slow               | 🔼 Moderate      |
+| 🛠️ [**RUN**](http://www.aliasgharheidari.com/RUN.html)     | ⚡ Fast    | 🔼 Moderate               | 🔼 High                     | 🔼 High         | 🔼 Global/Local    | 🔼 Fast               | 🔼 High          |
+| 🔧 [**HGS**](http://www.aliasgharheidari.com/HGS.html)     | ⚖️ Moderate | 🔼 High                   | 🔼 Moderate                 | 🔼 High         | 🔼 Global/Local    | 🔼 Moderate           | 🔼 High          |
+| 🧩 [**SMA**](http://www.aliasgharheidari.com/SMA.html)     | ⚖️ Moderate | 🔼 Moderate               | 🔼 High                     | 🔼 High         | 🔼 Local           | 🔼 Moderate           | 🔼 High          |
+| 🌠 [**HHO**](http://www.aliasgharheidari.com/HHO.html)     | 🚶‍♂️ Moderate | 🔼 High                   | 🔼 High                     | 🔼 High         | 🔼 Global/Local    | 🔼 Moderate           | 🔼 High          |
 
 ---
 
@@ -164,7 +164,9 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 - **Global Search**: 🔼 = Excellent, 🔽 = Moderate, 🔻 = Low
 - **Local Search**: 🔼 = High, 🔽 = Moderate, 🔻 = Low
 - **Scalability**: 🔼 = High, ⚖️ = Moderate, 🔽 = Low
-
+- **Global/Local**: 🔼 Global, 🔼 Local, 🔼 Global/Local
+- **Convergence Speed**: 🔼 = Fast, 🔼 = Moderate, 🔼 = Slow
+- **Robustness**: 🔼 = High, 🔼 = Moderate, 🔼 = Low
 
 
 
