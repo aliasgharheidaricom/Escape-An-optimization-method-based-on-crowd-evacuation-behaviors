@@ -138,7 +138,7 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 
 ### Performance Comparison
 
-| **Algorithm** | **Speed** | **Global Search Ability** | **Local Search Refinement** | **Scalability** | **Exploration/Exploitation** | **Convergence Speed** | **Robustness** |
+| **Algorithm** | **Speed** | **Global Search Ability** | **Local Search Refinement** | **Scalability** | **global/local** | **Convergence Speed** | **Robustness** |
 |---------------|-----------|---------------------------|-----------------------------|-----------------|-----------------------------|-----------------------|----------------|
 | **MGO**       | 🔽        | 🔼                        | 🔼                          | 🔽              | 🔼                           | 🔽                    | 🔼             |
 | **GA**        | 🔼        | 🔽                        | 🔽                          | 🔼              | 🔽                           | 🔼                    | 🔽             |
