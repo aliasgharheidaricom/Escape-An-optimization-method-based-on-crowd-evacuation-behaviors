@@ -73,6 +73,46 @@ The ESC algorithm draws inspiration from human behavior during emergencies:
 - The **Panic Index** transitions the population from chaotic exploration to focused exploitation.
 
 ---
+## 📜 **Algorithm Pseudocode**
+
+Below is the pseudocode for the **Escape Optimization Algorithm (ESC)**:
+
+```text
+Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
+
+1: Initialize ESC parameters
+2: Initialize Population:
+3: for each individual xi do
+4:        for each dimension j do
+5:                Set xi,j = lbj + rj × (ubj − lbj ) where rj ∼ U(0, 1)
+6:        end for
+7: end for
+8: Evaluate fitness of each individual fi = f(xi)
+9: Sort population by fitness in ascending order
+10: Store the top eliteSize individuals in the Elite Pool: 
+    E = {x1, x2, ..., xeliteSize}
+11: while t ≤ T do
+12:       if t/T ≤ 0.5 then
+13:         Compute Panic Index P(t) = cos(πt/6T)
+14:         Sort population by fitness
+15:         Divide population into: Calm group (proportion c), 
+              Conforming group (proportion h), and Panic group (proportion p)
+16:          Update Calm Group using Eq. (4)
+17:          Update Conforming Group using Eq. (6)
+18:          Update Panic Group using Eq. (8)
+19:      else
+20:           ► Enter exploitation phase
+21:           Update population using Eq. (10)
+22:      end if
+23:     Evaluate the fitness of each individual
+24:     Apply greedy selection (Eq. 12)
+25:     Update Elite Pool with best solutions found
+26:     t = t + 1
+27: end while
+28: Return Best Solutions from Elite Pool
+```
+
+
 
 ## 📊 **Performance Highlights**
 
