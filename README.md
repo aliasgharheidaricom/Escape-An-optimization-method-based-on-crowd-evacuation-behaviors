@@ -8,20 +8,11 @@ Abstract: Meta-heuristic algorithms, particularly those based on swarm intellige
 
 Below are images demonstrating different aspects of the **Escape Algorithm (ESC)** optimization process:
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer1.jpg" alt="ESC Optimizer 1" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer2.jpg" alt="ESC Optimizer 2" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer3.jpg" alt="ESC Optimizer 3" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer4.jpg" alt="ESC Optimizer 4" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer5.jpg" alt="ESC Optimizer 5" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer6.jpg" alt="ESC Optimizer 6" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer7.jpg" alt="ESC Optimizer 7" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer8.jpg" alt="ESC Optimizer 8" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer9.jpg" alt="ESC Optimizer 9" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer10.jpg" alt="ESC Optimizer 10" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer11.jpg" alt="ESC Optimizer 11" style="width: 100%; height: auto;">
-  <img src="https://aliasgharheidari.com/Escape%20ESC%20optimizer12.jpg" alt="ESC Optimizer 12" style="width: 100%; height: auto;">
-</div>
+| ![ESC Optimizer 1](https://aliasgharheidari.com/Escape%20ESC%20optimizer1.jpg) | ![ESC Optimizer 2](https://aliasgharheidari.com/Escape%20ESC%20optimizer2.jpg) | ![ESC Optimizer 3](https://aliasgharheidari.com/Escape%20ESC%20optimizer3.jpg) | ![ESC Optimizer 4](https://aliasgharheidari.com/Escape%20ESC%20optimizer4.jpg) |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| ![ESC Optimizer 5](https://aliasgharheidari.com/Escape%20ESC%20optimizer5.jpg) | ![ESC Optimizer 6](https://aliasgharheidari.com/Escape%20ESC%20optimizer6.jpg) | ![ESC Optimizer 7](https://aliasgharheidari.com/Escape%20ESC%20optimizer7.jpg) | ![ESC Optimizer 8](https://aliasgharheidari.com/Escape%20ESC%20optimizer8.jpg) |
+| ![ESC Optimizer 9](https://aliasgharheidari.com/Escape%20ESC%20optimizer9.jpg) | ![ESC Optimizer 10](https://aliasgharheidari.com/Escape%20ESC%20optimizer10.jpg) | ![ESC Optimizer 11](https://aliasgharheidari.com/Escape%20ESC%20optimizer11.jpg) | ![ESC Optimizer 12](https://aliasgharheidari.com/Escape%20ESC%20optimizer12.jpg) |
+
 
 ---
 
