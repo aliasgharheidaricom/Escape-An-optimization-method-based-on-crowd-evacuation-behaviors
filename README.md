@@ -136,6 +136,15 @@ Algorithm 1: Pseudocode of Escape Optimization Algorithm (ESC)
 28: Return Best Solutions from Elite Pool
 ```
 
+### Performance Comparison
+
+| Algorithm                        | Speed    | Global Search Ability | Local Search Refinement | Scalability |
+|----------------------------------|----------|-----------------------|-------------------------|-------------|
+| Moss Growth Optimization          | Moderate | High                  | Excellent               | Moderate    |
+| Genetic Algorithm                 | Fast     | Good                  | Moderate                | High        |
+| Particle Swarm Optimization       | Fast     | Moderate              | Moderate                | High        |
+| Simulated Annealing               | Moderate | High                  | Low                     | Moderate    |
+| **Escape Optimization (ESC)**     | Moderate | Excellent             | High                    | High        |
 
 
 ## 📊 **Performance Highlights**
@@ -188,5 +197,24 @@ If you use ESC in your research, kindly cite:
 - **Proven Success**: Benchmark-leading performance across domains.
 
 ---
+
+## 🔍 **Comparison with Other Optimization Methods**
+
+| Optimization Method | Year | Applications                                | Limitations                              | Key Features                                      |
+|---------------------|------|---------------------------------------------|------------------------------------------|--------------------------------------------------|
+| 🌟 [**PLO**](http://www.aliasgharheidari.com/PLO.html)   | 2024 | Engineering design, data analysis           | May struggle with highly dynamic problems | High efficiency in solving complex problems       |
+| 🚀 [**FATA**](http://www.aliasgharheidari.com/FATA.html) | 2024 | Resource management, optimization tasks     | Scalability may decrease with problem size | Robust performance, highly scalable               |
+| 🌐 [**ECO**](http://www.aliasgharheidari.com/ECO.html)   | 2024 | Environmental modeling, multi-criteria decision-making | Can be computationally intensive        | Effective in multi-objective optimization         |
+| 🔍 [**AO**](http://www.aliasgharheidari.com/AO.html)     | 2024 | Adaptive systems, real-time optimization    | May need extensive parameter tuning       | Innovative approaches to optimization             |
+| ✨ [**PO**](http://www.aliasgharheidari.com/PO.html)     | 2024 | Robotics, machine learning                  | May not work well for highly complex problems | Fast convergence, simple implementation          |
+| 🔬 [**RIME**](http://www.aliasgharheidari.com/RIME.html) | 2023 | Control systems, signal processing          | Less effective in dynamic environments    | Flexibility in handling various optimization tasks|
+| 📊 [**INFO**](http://www.aliasgharheidari.com/INFO.html) | 2022 | Business analytics, predictive modeling     | May require significant data processing   | Data-driven insights for optimization            |
+| 🛠️ [**RUN**](http://www.aliasgharheidari.com/RUN.html)     | 2021 | Logistics, supply chain management          | May struggle with non-linear problems     | Adaptable to different types of optimization tasks|
+| 🔧 [**HGS**](http://www.aliasgharheidari.com/HGS.html)     | 2021 | Telecommunications, network design          | High computational cost                  | Effective for large-scale problems               |
+| 🧩 [**SMA**](http://www.aliasgharheidari.com/SMA.html)     | 2020 | Financial modeling, time-series forecasting | May not handle multi-objective problems well | Suitable for dynamic environments                |
+| 🌠 [**HHO**](http://www.aliasgharheidari.com/HHO.html)     | 2019 | Manufacturing optimization, systems engineering | May require multiple iterations for optimization | Good balance between exploration and exploitation|
+
+Explore these methods to see how ESC compares and stands out in the field of optimization!
+
 
 For more information, visit the [Official ESC Page](https://aliasgharheidari.com/ESC.html).
