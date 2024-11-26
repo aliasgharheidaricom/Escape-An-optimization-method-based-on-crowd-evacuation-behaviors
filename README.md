@@ -1,3 +1,15 @@
+![License](https://img.shields.io/github/license/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Code Size](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Repo Size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Language Count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Last Commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Issues](https://img.shields.io/github/issues/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Forks](https://img.shields.io/github/forks/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Stars](https://img.shields.io/github/stars/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Escape-An-optimization-method-based-on-crowd-evacuation-behaviors)
+
+
 # 🚀 Escape Algorithm (ESC)
 
 **Escape Algorithm (ESC)** is a cutting-edge metaheuristic optimization technique inspired by the dynamic behavior of crowds during emergency evacuations. This innovative approach balances **exploration** and **exploitation** phases by mimicking the behaviors of calm, herding, and panic groups.
